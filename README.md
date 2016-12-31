@@ -6,7 +6,7 @@ See [Matrix.org].
 
 # What is this repo?
 
-* A `pwiki-synapse` docker image, which runs a [Synapse] server. Synapse is a [Matrix.org] server implementation.
+* A `pwiki-synapse` docker image, which runs a [Synapse] server. Synapse is a [Matrix] server implementation.
 * Soon: Another thing to run a web client?
 * A guide to set this all up.
 
@@ -154,5 +154,5 @@ Your Matrix server should now be running.
 * Enable URL preview API
 * Set up PostgreSQL backups
 
-[Matrix.org]: https://matrix.org/
+[Matrix]: https://matrix.org/
 [Synapse]: https://github.com/matrix-org/synapse
